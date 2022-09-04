@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5355e7e9-b48a-4b3a-9349-86d9f0fd9eb5": {
+      "ProjectGuid": "5355e7e9-b48a-4b3a-9349-86d9f0fd9eb5",
+      "DisplayName": "Identity",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
